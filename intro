@@ -9,3 +9,11 @@ Past year, I witnessed a tragic incident that left an indelible mark on me. An e
 This incident inspired me to create Smart Vision AI, a wearable system aimed at empowering visually impaired individuals to navigate their surroundings independently and safely. I began by understanding the specific challenges faced by visually impaired individuals and researching existing assistive technologies to identify gaps. Leveraging AI and computer vision, I designed a solution using Single Shot Detector (SSD) for real-time object detection and TensorFlow for model development. The device integrated lightweight hardware, including a Raspberry Pi and a camera module, to provide live audio feedback about the user’s surroundings. I actively engaged with visually impaired individuals and collaborated with NGOs to test the prototype in real-world scenarios, gathering invaluable feedback to iteratively improve its usability and impact.
 
 Overcoming challenges like model overfitting and latency, I applied advanced training techniques and hardware optimizations to enhance performance. After rigorous testing and refinement, the final prototype achieved over 90% accuracy in real-time detection, enabling users to navigate safely and independently. 
+
+
+Qs:
+
+What is the core mission of your organization, and what key challenges are you currently facing in achieving it?
+How do you currently use technology in your operations, and what gaps or pain points do you experience?
+What is your vision for how technology could help you scale your impact or improve your efficiency?
+What challenges do you face in reaching or communicating with the people you serve or work with?
